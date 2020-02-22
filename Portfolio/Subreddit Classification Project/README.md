@@ -27,7 +27,7 @@ We chose to scrape content from two subreddits - r/Dating_Advice and r/Relations
 
 ### EDA
 
-![Wordcloud](https://git.generalassemb.ly/jytan89/GA-coursework/blob/master/Projects/Project%203/Images/word_cloud.png)
+![Wordcloud](./Images/word_cloud.png)
 
 After compiling and cleaning the content (removing html codes and whatnot), we have created the above word cloud to visualize the most common words appearing in these subreddits.
 
@@ -39,7 +39,7 @@ All in all, disregarding the aforementioned words, the word cloud does seem repr
 
 ### Modelling Results
 
-![TVEC_CVEC_results_df](https://git.generalassemb.ly/jytan89/GA-coursework/blob/master/Projects/Project%203/Images/compiled_results_comparison.png)
+![TVEC_CVEC_results_df](./Images/compiled_results_comparison.png)
 
 #### Baseline score:
 
