@@ -87,7 +87,7 @@ Hence, I decided to use **Principal Component Analysis (PCA)** to select the fea
 
 #### Summary of Results:
 
-![messi_sim_players](./Visuals/messi_sim_players.png)
+![messi_sim_players](./Visuals/messi_similar_players.png)
 
 For visuals on the comparison plots between Messi and the above similar players in terms for their attributes, please take a look at [Interactive Spider Plots](./Visuals/Interactive%20Spider%20Plots.html).
 
